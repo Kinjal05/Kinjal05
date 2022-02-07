@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kinjal
 - 👀 I’m interested in current trending technologies.
-- 🌱 I’m currently learning Cloud Technologies, Data Analyatics.
+- 🌱 I’m currently learning Cloud Technologies, Security Tools.
 - 📫 How to reach me via email-rkinjal30@gmail.com
 
 <!---
